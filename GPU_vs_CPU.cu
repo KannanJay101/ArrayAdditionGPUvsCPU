@@ -99,5 +99,5 @@ int main() {
     return 0;
 }
 
-// Compile command: nvcc -o exercises3 exercises3.cu
-// Run command: ./exercises3
+// Compile command: nvcc -o GPU_vs_CPU GPU_vs_CPU.cu
+// Run command: ./GPU_vs_CPU
